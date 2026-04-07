@@ -1,0 +1,11 @@
+﻿{
+	"mcp": {
+		"servers": {
+			"mcp-template": {
+				"command": "node",
+				"args": ["dist/index.js"],
+				"cwd": "./00-template"
+			}
+		}
+	}
+}
