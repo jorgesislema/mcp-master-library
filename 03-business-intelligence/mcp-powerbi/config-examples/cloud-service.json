@@ -1,0 +1,7 @@
+﻿{
+	"mode": "service",
+	"tenantId": "contoso-tenant",
+	"workspaceId": "workspace-id",
+	"datasetId": "dataset-id",
+	"maxRows": 1000
+}
