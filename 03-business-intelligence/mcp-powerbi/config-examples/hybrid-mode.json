@@ -1,0 +1,10 @@
+﻿{
+	"mode": "hybrid",
+	"desktop": {
+		"modelName": "SalesModel"
+	},
+	"service": {
+		"workspaceId": "workspace-id",
+		"datasetId": "dataset-id"
+	}
+}
