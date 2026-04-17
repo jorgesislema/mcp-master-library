@@ -1,0 +1,6 @@
+﻿{
+	"mode": "desktop",
+	"modelName": "SalesModel",
+	"port": 50001,
+	"maxRows": 1000
+}
