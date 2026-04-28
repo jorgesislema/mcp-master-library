@@ -1,0 +1,14 @@
+{
+	"name": "mcp-gitlab",
+	"version": "0.1.0",
+	"private": true,
+	"description": "GitLab pipeline and merge request automation",
+	"type": "module",
+	"scripts": {
+		"build": "tsc -p tsconfig.json",
+		"test": "node --test tests/*.test.mjs"
+	},
+	"devDependencies": {
+		"typescript": "^5.6.3"
+	}
+}
