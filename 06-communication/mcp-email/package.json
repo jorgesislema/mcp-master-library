@@ -1,0 +1,14 @@
+{
+	"name": "mcp-email",
+	"version": "0.1.0",
+	"private": true,
+	"description": "Transactional email and report delivery",
+	"type": "module",
+	"scripts": {
+		"build": "tsc -p tsconfig.json",
+		"test": "node --test tests/*.test.mjs"
+	},
+	"devDependencies": {
+		"typescript": "^5.6.3"
+	}
+}
