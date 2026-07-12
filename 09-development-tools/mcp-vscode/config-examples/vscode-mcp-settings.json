@@ -1,0 +1,9 @@
+﻿{
+	"mcp.vscode.allowedCommands": [
+		"npm test",
+		"npm run build",
+		"git status"
+	],
+	"mcp.vscode.maxSearchResults": 100,
+	"mcp.vscode.enableDebugHelpers": false
+}
